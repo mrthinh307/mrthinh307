@@ -45,7 +45,7 @@
     alt="figma logo" />
   <img src="https://nodejs.org/static/logos/jsIconGreen.svg" alt="nodejs" width="60" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1242px-NestJS.svg.png?20221211225055"
-    alt="nestjs" width="50" height="40" />
+    alt="nestjs" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="60"
     alt="cplusplus logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="60"
