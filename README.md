@@ -8,7 +8,13 @@
 
 <h2 align="left">🙋‍♂️ Glad to see you here!</h2>
 
-<p align="left">I’m a passionate learner in the field of software engineering, currently focusing on full-stack web development. I believe in the power of clean code, solid architecture, and continuous improvement. Every commit is not just a change—it’s a reflection of my growth mindset. 🚀</p>
+<p align="left">
+  I'm currently an Information Technology student at the University of Engineering and Technology – Vietnam National University, Hanoi.<br />
+  With a passion for mathematics and... a touch of elegance, I'm on the journey to becoming a professional software engineer.<br />
+  Backed by logical thinking, creativity, self-discipline, and a strong sense of responsibility, I constantly strive to improve myself and create products that not only work well but also carry real-world value     and aesthetic quality.<br />
+  Every commit is not just a change — it’s a reflection of my growth mindset. 🚀
+</p>
+
 
 <p>More about me:</p>
 
