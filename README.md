@@ -9,14 +9,9 @@
 <h2 align="left">🙋‍♂️ Glad to see you here!</h2>
 
 <p align="left">
-  I'm currently an Information Technology student at <strong>University of Engineering and Technology – Vietnam National University, Hanoi</strong>.<br /><br />
-
-  With a passion for mathematics and... a touch of elegance, I'm on the journey to becoming a <strong>professional software engineer</strong>.<br /><br />
-
-  Backed by <strong>logical thinking</strong>, <strong>creativity</strong>, <strong>self-discipline</strong>, and a strong sense of <strong>responsibility</strong>, I constantly strive to improve myself and create products that not only work well but also carry <strong>real-world value</strong> and <strong>aesthetic quality</strong>.<br /><br />
-
-  <strong>Every commit</strong> is not just a change — it’s a reflection of my <strong>growth mindset</strong>. 🚀
+  I'm currently an Information Technology student at <strong>University of Engineering and Technology – Vietnam National University, Hanoi</strong>. With a passion for mathematics and... a touch of elegance, I'm on the journey to becoming a <strong>professional software engineer</strong>. Backed by <strong>logical thinking</strong>, <strong>creativity</strong>, <strong>self-discipline</strong>, and a strong sense of <strong>responsibility</strong>, I constantly strive to improve myself and create products that not only work well but also carry <strong>real-world value</strong> and <strong>aesthetic quality</strong>. <strong>Every commit</strong> is not just a change — it’s a reflection of my <strong>growth mindset</strong>. 🚀
 </p>
+
 
 
 
