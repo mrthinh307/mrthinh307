@@ -35,7 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="60"
     alt="react logo" />
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.svg" alt="nextjs"
-    width="60" height="50" />
+    width="60" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="60"
     alt="figma logo" />
   <img src="https://nodejs.org/static/logos/jsIconGreen.svg" alt="nodejs" width="60" height="40" />
