@@ -18,7 +18,7 @@
 <p>More about me:</p>
 
 <ul align="left">
-  <li>🔭 I’m currently working on on an e-commerce website inspired by <a href="backmarket.com">Back Market</a>.</li>
+  <li>🔭 I’m currently working on on an e-commerce website inspired by <a href="https://backmarket.com">Back Market</a>.</li>
   <li>🌱 I’m currently learning web development.</li>
   <li>📫 Reach me via: <a href="mailto:thinh.ksb.k55n@gmail.com">thinh.ksb.k55@gmail.com</a> (Personal).</li>
 </ul>
