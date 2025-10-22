@@ -12,9 +12,6 @@
   I'm currently an Information Technology student at <strong>University of Engineering and Technology – Vietnam National University, Hanoi</strong>. With a passion for mathematics and... a touch of elegance, I'm on the journey to becoming a <strong>professional software engineer</strong>. Backed by <strong>logical thinking</strong>, <strong>creativity</strong>, <strong>self-discipline</strong>, and a strong sense of <strong>responsibility</strong>, I constantly strive to improve myself and create products that not only work well but also carry <strong>real-world value</strong> and <strong>aesthetic quality</strong>. <strong>Every commit</strong> is not just a change — it’s a reflection of my <strong>growth mindset</strong>. 🚀
 </p>
 
-
-
-
 <p>More about me:</p>
 
 <ul align="left">
@@ -26,30 +23,30 @@
 <h2 align="left">🔧 I code with</h2>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="60"
-    alt="html5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="60"
-    alt="css3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="60"
-    alt="sass logo" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"
     width="60" alt="javascript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript"
     width="60" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="60"
+    alt="cplusplus logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="60"
+    alt="java logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="60"
     alt="react logo" />
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.svg" alt="nextjs"
     width="60" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="60"
+    alt="sass logo" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="60"
     alt="figma logo" />
   <img src="https://nodejs.org/static/logos/jsIconGreen.svg" alt="nodejs" width="60" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1242px-NestJS.svg.png?20221211225055"
     alt="nestjs" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="60"
-    alt="cplusplus logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="60"
-    alt="java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" width="60" alt="redis logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" width="60" alt="aws logo" />
+
+
 </div>
 
 <h2 align="left">🔥 My stats</h2>
