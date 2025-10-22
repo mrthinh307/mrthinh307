@@ -15,10 +15,16 @@
 <p>More about me:</p>
 
 <ul align="left">
-  <li>🔭 I’m currently working on on an e-commerce website inspired by <a href="https://backmarket.com">Back Market</a>.</li>
+  <li>🔭 I’m currently building an e-commerce website inspired by <a href="https://backmarket.mrthinh.site" target="_blank" rel="noopener">Back Market</a>.</li>
   <li>🌱 I’m currently learning software development.</li>
-  <li>📫 Reach me via: <a href="mailto:hoangduythinh.work@gmail.com">hoangduythinh.work@gmail.com</a>.</li>
+  <li>📄 Download my CV (PDF): 
+    <a href="https://github.com/mrthinh307/mrthinh307/releases/latest/download/CV_HoangDuyThinh.pdf">
+      HoangDuyThinh_Resume.pdf
+    </a>
+  </li>
+  <li>📫 Reach me at: <a href="mailto:hoangduythinh.work@gmail.com">hoangduythinh.work@gmail.com</a></li>
 </ul>
+
 
 <h2 align="left">🔧 I code with</h2>
 
