@@ -25,7 +25,6 @@
   <li>📫 Reach me at: <a href="mailto:hoangduythinh.work@gmail.com">hoangduythinh.work@gmail.com</a></li>
 </ul>
 
-
 <h2 align="left">🔧 I code with</h2>
 
 <div align="center">
@@ -52,24 +51,27 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" width="60" alt="redis logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" width="60" alt="aws logo" />
 
-
 </div>
 
 <h2 align="left">🔥 My stats</h2>
 
 <div align="center">
   <!-- Stats Card -->
-  <picture>
+  <!-- <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=mrthinh307&hide_title=true&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1"
+      srcset="https://github-readme-stats.vercel.app/api?username=mrthinh307&hide_title=true&rank_icon=github&show_icons=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=mrthinh307&hide_title=true&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&order=1"
+      srcset="https://github-readme-stats.vercel.app/api?username=mrthinh307&hide_title=true&rank_icon=github&show_icons=true&count_private=true&disable_animations=false&locale=en&hide_border=true&order=1"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=mrthinh307" height="150" alt="stats graph" />
-  </picture>
+    <img
+      src="https://github-readme-streak-stats-nivx.vercel.app/api?username=mrthinh307&hide_title=true&rank_icon=github&show_icons=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1"
+      height="150"
+      alt="stats graph"
+    />
+  </picture> -->
   <!-- Streak Card -->
   <picture>
     <source
@@ -80,6 +82,6 @@
       srcset="https://github-readme-streak-stats-nivx.vercel.app?user=mrthinh307&locale=en&order=3"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-streak-stats-mrthinh307.vercel.app?user=mrthinh307" height="150" alt="streak graph" />
+    <img src="https://github-readme-streak-stats-nivx.vercel.app?user=mrthinh307" height="150" alt="streak graph" />
   </picture>
 </div>
