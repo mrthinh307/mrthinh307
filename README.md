@@ -15,7 +15,6 @@
 <p>More about me:</p>
 
 <ul align="left">
-  <li>🔭 I’m currently building an e-commerce website inspired by <a href="https://backmarket.mrthinh.site" target="_blank" rel="noopener">Back Market</a>.</li>
   <li>🌱 I’m currently learning software development.</li>
   <li>📫 Reach me at: <a href="mailto:hoangduythinh.work@gmail.com">hoangduythinh.work@gmail.com</a>.</li>
 </ul>
