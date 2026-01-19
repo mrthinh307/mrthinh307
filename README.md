@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=0&center=true&repeat=false&width=600&height=30&lines=A+web+development+enthusiast+from+Hanoi,+Vietnam." alt="A web development enthusiast from Hanoi, Vietnam." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=0&center=true&repeat=false&width=600&height=30&lines=A+web+development+enthusiast+from+Hanoi,+Vietnam." alt="A software developer from Hanoi, Vietnam." />
 </p>
 
 <h2 align="left">🙋‍♂️ Glad to see you here!</h2>
