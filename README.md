@@ -19,7 +19,7 @@
   <li>📫 Reach me at: <a href="mailto:hoangduythinh.work@gmail.com">hoangduythinh.work@gmail.com</a>.</li>
 </ul>
 
-<h2 align="left">🔧 I code with</h2>
+<!-- <h2 align="left">🔧 I code with</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"
@@ -45,7 +45,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" width="60" alt="redis logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" width="60" alt="aws logo" />
 
-</div>
+</div> -->
 
 <h2 align="left">🔥 My stats</h2>
 
