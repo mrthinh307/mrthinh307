@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=0&section=header" width="100%" alt="" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=500&center=true&width=435&height=50&lines=%3E+Hi+%F0%9F%91%8B%2C+;I'm+Duy+Thinh" alt="Hi 👋, I'm Duy Thinh" />
 </p>
 
@@ -51,21 +55,17 @@
 
 <div align="center">
   <!-- Stats Card -->
-  <!-- <picture>
+  <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=mrthinh307&hide_title=true&rank_icon=github&show_icons=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1"
+      srcset="https://github-readme-stats-nivx.vercel.app/api?username=nivx18818&hide_title=true&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=mrthinh307&hide_title=true&rank_icon=github&show_icons=true&count_private=true&disable_animations=false&locale=en&hide_border=true&order=1"
+      srcset="https://github-readme-stats-nivx.vercel.app/api?username=nivx18818&hide_title=true&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&order=1"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img
-      src="https://github-readme-streak-stats-nivx.vercel.app/api?username=mrthinh307&hide_title=true&rank_icon=github&show_icons=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1"
-      height="150"
-      alt="stats graph"
-    />
-  </picture> -->
+    <img src="https://github-readme-stats-nivx.vercel.app/api?username=mrthinh307" height="150" alt="stats graph" />
+  </picture>
   <!-- Streak Card -->
   <picture>
     <source
@@ -76,6 +76,10 @@
       srcset="https://github-readme-streak-stats-nivx.vercel.app?user=mrthinh307&locale=en&order=3"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-streak-stats-nivx.vercel.app?user=mrthinh307" height="150" alt="streak graph" />
+    <img src="https://github-readme-streak-stats-nivx18818.vercel.app?user=mrthinh307" height="150" alt="streak graph" />
   </picture>
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=2&section=footer" width="100%" alt="" />
+</p>
