@@ -68,7 +68,7 @@
   <!-- Stats Card -->
   <picture>
     <source
-      srcset="https://github-readme-stats-nivx.vercel.app/api?username=nivx18818&hide_title=true&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1"
+      srcset="https://github-readme-stats-nivx.vercel.app/api?username=mrthinh307&hide_title=true&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1"
       media="(prefers-color-scheme: dark)"
     />
     <source
