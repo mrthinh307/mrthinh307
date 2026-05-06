@@ -23,33 +23,44 @@
   <li>📫 Reach me at: <a href="mailto:hoangduythinh.work@gmail.com">hoangduythinh.work@gmail.com</a>.</li>
 </ul>
 
-<!-- <h2 align="left">🔧 I code with</h2>
+<h2 align="left">🔧 I code with</h2>
 
+<h3 align="center">Core</h3>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"
-    width="60" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript"
-    width="60" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="60"
-    alt="cplusplus logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="60"
-    alt="java logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="60"
-    alt="react logo" />
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.svg" alt="nextjs"
-    width="60" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="60"
-    alt="sass logo" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="60"
-    alt="figma logo" />
-  <img src="https://nodejs.org/static/logos/jsIconGreen.svg" alt="nodejs" width="60" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1242px-NestJS.svg.png?20221211225055"
-    alt="nestjs" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" width="60" alt="redis logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" width="60" alt="aws logo" />
+  <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="40" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="40" alt="React" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="40" alt="Next.js" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" height="40" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/shadcn/ui-%23000000?style=for-the-badge&logo=shadcnui&logoColor=white" height="40" alt="shadcn/ui" />
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=F3DFBE" height="40" alt="Zustand" />
+  <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" height="40" alt="Storybook" />
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="40" alt="Node.js" />
+  <img src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" height="40" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white" height="40" alt="Express.js" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" height="40" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="40" alt="PostgreSQL" />
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="40" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="40" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" height="40" alt="Bitbucket" />
+</div>
 
-</div> -->
+<h3 align="center">Supporting</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="40" alt="Docker" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" height="40" alt="Figma" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="40" alt="Jira" />
+</div>
+
+<h3 align="center">Additional Experience</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="40" alt="C++" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="40" alt="Java" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" height="40" alt="Kotlin" />
+</div>
 
 <h2 align="left">🔥 My stats</h2>
 
