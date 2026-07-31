@@ -13,7 +13,7 @@
 <h2 align="left">🙋‍♂️ Glad to see you here!</h2>
 
 <p align="left">
-  I'm currently an Information Technology student at <strong>University of Engineering and Technology – Vietnam National University, Hanoi</strong>. With a passion for mathematics and... a touch of elegance, I'm on the journey to becoming a <strong>professional software engineer</strong>.
+  I'm currently an Information Technology student at <strong>University of Engineering and Technology – Vietnam National University, Hanoi</strong>. 
 </p>
 
 <p>More about me:</p>
