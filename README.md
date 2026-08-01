@@ -20,7 +20,7 @@
 
 <ul align="left">
   <li>🌱 I’m currently learning software development.</li>
-  <li>📫 Reach me at: <a href="mailto:hoangduythinh.work@gmail.com">hoangduythinh.work@gmail.com</a>.</li>
+  <li>📫 Reach me via: <a href="mailto:hoangduythinh.work@gmail.com">hoangduythinh.work@gmail.com</a>.</li>
 </ul>
 
 <h2 align="left">🔧 I code with</h2>
