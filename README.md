@@ -69,7 +69,6 @@
 <h2 align="left">🔥 My stats</h2>
 
 <div align="center">
-  <!-- Stats Card -->
   <picture>
     <source
       srcset="https://github-readme-stats-nivx.vercel.app/api?username=mrthinh307&hide_title=true&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1"
@@ -81,7 +80,6 @@
     />
     <img src="https://github-readme-stats-nivx.vercel.app/api?username=mrthinh307" height="150" alt="stats graph" />
   </picture>
-  <!-- Streak Card -->
   <picture>
     <source
       srcset="https://github-readme-streak-stats-nivx.vercel.app?user=mrthinh307&locale=en&theme=dracula&hide_border=true&order=3"
@@ -97,4 +95,4 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=2&section=footer" width="100%" alt="" />
-</p> -->
+</p>  -->
