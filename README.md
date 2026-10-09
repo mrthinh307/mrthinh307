@@ -96,3 +96,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=2&section=footer" width="100%" alt="" />
 </p>  -->
+📫 Reach me via: <a href="mailto:hoangduythinh.work@gmail.com">hoangduythinh.work@gmail.com</a>.
