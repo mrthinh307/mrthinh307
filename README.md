@@ -97,3 +97,30 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=2&section=footer" width="100%" alt="" />
 </p>  -->
 📫 Reach me via: <a href="mailto:hoangduythinh.work@gmail.com">hoangduythinh.work@gmail.com</a>.
+
+<h3 align="left">🔥 My stats</h3>
+
+<div align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats-nivx.vercel.app/api?username=mrthinh307&hide_title=true&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-nivx.vercel.app/api?username=nivx18818&hide_title=true&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&order=1"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats-nivx.vercel.app/api?username=mrthinh307" height="150" alt="stats graph" />
+  </picture>
+  <picture>
+    <source
+      srcset="https://github-readme-streak-stats-nivx.vercel.app?user=mrthinh307&locale=en&theme=dracula&hide_border=true&order=3"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-streak-stats-nivx.vercel.app?user=mrthinh307&locale=en&order=3"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-streak-stats-nivx18818.vercel.app?user=mrthinh307" height="150" alt="streak graph" />
+  </picture>
+</div>
